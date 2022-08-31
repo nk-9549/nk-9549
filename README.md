@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nk-9549
 - 👀 I’m interested in Coding...
-- 🌱 I’m currently studying in Diploma...
+- 🌱 I’m currently ######
 
 
 
